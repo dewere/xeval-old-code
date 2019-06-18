@@ -14,4 +14,4 @@
 
 Проект на гитхабе так и остался слитым, https://github.com/XeVAL-PROJECT
 
-Мой Discord - X-50#9495
+Мой Discord - ~~X-50#9495~~ V4#9495
